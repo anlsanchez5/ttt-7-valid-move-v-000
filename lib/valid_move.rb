@@ -10,6 +10,7 @@ end
 
 
 def valid_move?(board, index)
+  if index.between
 
 
 end
